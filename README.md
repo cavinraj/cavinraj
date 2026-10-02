@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=E3B341&center=true&vCenter=true&width=900&height=44&lines=CS+(AI)+Undergrad+@+UM+-+Learning+to+write+clean+and+efficient+code;Exploring+systems+and+turning+ideas+into+software+one+project+at+a+time" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=E3B341&center=true&vCenter=true&width=900&height=44&lines=CS+(AI)+Undergrad+@+Universiti+Malaya+-+Learning+to+write+clean+and+efficient+code;Exploring+systems+and+turning+ideas+into+software+one+project+at+a+time" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
