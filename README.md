@@ -13,7 +13,7 @@
 Computer Science student specializing in AI. Passionate about problem-solving, mastering data structures, and building practical software from scratch.
 
 🔭 &nbsp;I'm currently working on **building interactive web projects, strengthening core programming fundamentals while exploring applied AI fundamentals and practical AI applications.**  
-🌱 &nbsp;I'm currently learning **JavaScript (intermediate), React (fundamentals), RAG (fundamentals), API (fundamentals), AI with Python, and algorithmic problem-solving.**  
+🌱 &nbsp;I'm currently learning **JavaScript (intermediate), RAG (fundamentals), AI with Python, and algorithmic problem-solving.**  
 👯 &nbsp;I'm looking to collaborate on **Beginner-friendly open source or small web utilities.**  
 😄 &nbsp;Pronouns: **HIM**  
 ⚡ &nbsp;Fun fact: **Operating entirely on cold observation and warm intuition.**
